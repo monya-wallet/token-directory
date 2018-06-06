@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "tokens": [
+    {
+      "name": "OmiseGO",
+      "contractAddress": "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",
+      "symbol": "OMG",
+      "decimals": 18
+    },
+    {
+      "name": "EOS",
+      "contractAddress": "0x86Fa049857E0209aa7D9e616F7eb3b3B78ECfdb0",
+      "symbol": "EOS",
+      "decimals": 18
+    },
+    {
+      "name": "Aeternity",
+      "contractAddress": "0x5CA9a71B1d01849C0a95490Cc00559717fCF0D1d",
+      "symbol": "AE",
+      "decimals": 18
+    },
+    {
+      "name": "0x Protocol Token",
+      "contractAddress": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
+      "symbol": "ZRX",
+      "decimals": 18
+    },
+    {
+      "name": "Golem",
+      "contractAddress": "0xa74476443119A942dE498590Fe1f2454d7D4aC0d",
+      "symbol": "GNT",
+      "decimals": 18
+    },
+    {
+      "name": "Augur",
+      "contractAddress": "0xE94327D07Fc17907b4DB788E5aDf2ed424adDff6",
+      "symbol": "REP",
+      "decimals": 18
+    },
+    {
+      "name": "Status Network",
+      "contractAddress": "0x744d70FDBE2Ba4CF95131626614a1763DF805B9E",
+      "symbol": "SNT",
+      "decimals": 18
+    },
+    {
+      "name": "Storj",
+      "contractAddress": "0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC",
+      "symbol": "STORJ",
+      "decimals": 8
+    },
+    {
+      "name": "なんjコイン",
+      "contractAddress": "0xFFE02ee4C69eDf1b340fCaD64fbd6b37a7b9e265",
+      "symbol": "NANJ",
+      "decimals": 8
+    }
+  ],
+  "blacklist": [
+    {
+      "name": "SPINDLE",
+      "contractAddress": "0x1dEa979ae76f26071870F824088dA78979eb91C8",
+      "reason": "This doesn't accord with ERC 20"
+    },
+    {
+      "name": "WithCoin",
+      "contractAddress": "0x1dEa979ae76f26071870F824088dA78979eb91C8",
+      "reason": "Class actions are in progress"
+    }
+  ]
+}
