@@ -60,7 +60,7 @@
     {
       "name": "SPINDLE",
       "contractAddress": "0x1dEa979ae76f26071870F824088dA78979eb91C8",
-      "reason": "This doesn't accord with ERC 20"
+      "reason": "This is SWINDLE Token"
     },
     {
       "name": "WithCoin",
