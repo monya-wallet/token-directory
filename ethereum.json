@@ -82,6 +82,11 @@
       "name": "WithCoin",
       "contractAddress": "0x2E954cFc5cb4F089f5F3d7331449861249106D85",
       "reason": "Class actions are in progress"
+    },
+    {
+      "name": "MangaCoin",
+      "contractAddress": "0x013Cb1A40Bd16dE0eebe51C44695F6D29BB14081",
+      "reason": "This token has already swapped to new chain.(tatemae)"
     }
   ]
 }
